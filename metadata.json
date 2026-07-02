@@ -1,0 +1,6 @@
+{
+  "name": "LuMay AI Voice Agent Platform",
+  "description": "LuMay is an enterprise-grade AI Voice Agent platform enabling businesses to deploy ultra-low latency inbound and outbound AI voice agents with human-like conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
